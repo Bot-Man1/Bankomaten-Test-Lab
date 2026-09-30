@@ -7,7 +7,7 @@ class Program
         Console.Title = "Syntax Bank";
 
         // =========================
-        // VÄLKOMST
+        // WELCOME
         // =========================
 
         Console.Clear();
@@ -18,7 +18,7 @@ class Program
         Console.WriteLine();
 
         // =========================
-        // INLOGGNING
+        // LOGIN
         // =========================
 
         Console.Write("Username: ");
